@@ -1,3 +1,17 @@
+body{
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+}
+
+.footer{
+	margin-top: auto;
+}
+
+.page-heading-top{
+	padding-top: 2rem;
+}
+
 
 
 .hero-banner-box{
